@@ -1,0 +1,7 @@
+{
+  "name": "FlowStream AI",
+  "description": "A high-performance real-time voice-to-text application powered by Gemini Live API, featuring ultra-low latency transcription and AI-powered text refinement.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
